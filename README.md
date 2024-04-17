@@ -1,6 +1,3 @@
-When writing a README file for a login and registration page built using the MAER stack (MongoDB, Angular, Express, Redis), you want to provide clear and comprehensive information about the project, including how to set up, run, and use the application. Below is a template for the README file:
-
----
 
 # Login & Registration Page using MAER Stack
 
